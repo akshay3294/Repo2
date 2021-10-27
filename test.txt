@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5EA6-816D
+
+ Directory of C:\Users\Akshay\Desktop\PythonSelFramework\myproject
+
+27-10-2021  16:04    <DIR>          .
+27-10-2021  16:04    <DIR>          ..
+27-10-2021  16:04                 0 test.txt
+27-10-2021  16:03               139 test1
+               2 File(s)            139 bytes
+               2 Dir(s)  259,436,601,344 bytes free
